@@ -53,16 +53,16 @@ Gen Z VC partners would be able to seek feedback from Gen Z by submitting questi
 
 **Hosting:** Vercel
 
-**Web Framework:** NextJS
+**Frameworks:** NextJS, TailwindCSS
 
 **Other:** React Forms/Formik, Firebase Auth
 
-#nAPI Endpoints
+# Potential API Endpoints & Data Flow
 
 **/example**
 POST: Sign in 
 
-# Database Schema (MongoDB)
+# Database Schemas (MongoDB)
 **User**
 - ID
 - Name (Last, First)
